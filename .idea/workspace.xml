@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="143a9e41-0db6-4b21-a2cf-be7bf44882c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week1/12901/kooks/12901.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/12918/kooks/12918.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/159994/kooks/159994.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/42576/kooks/42576.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/42840/kooks/42840.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/81301/kooks/81301.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/92334/kooks/92334.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/42576/kooks/181853.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/42576/kooks/test.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/42576/kooks/test02.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +87,7 @@
       <workItem from="1756898938065" duration="4086000" />
       <workItem from="1757650812384" duration="954000" />
       <workItem from="1757652562112" duration="931000" />
-      <workItem from="1757688068154" duration="301000" />
+      <workItem from="1757688068154" duration="4561000" />
     </task>
     <servers />
   </component>
