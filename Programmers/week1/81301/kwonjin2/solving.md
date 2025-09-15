@@ -24,4 +24,4 @@
 - numberWords의 index값을 result 변수에 넣어주고 다시 helper 변수를 ''(빈공백)로 할당해준다.
 - 만약 i가 숫자라면 바로 result변수에 넣어준다.
 
-- 마지막으로 result 변수를 숫자로 변환해서 반환해준다.
+- 마지막으로 result 변수를 숫자로 변환해서 반환해준다!
