@@ -37,9 +37,9 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;kooks&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;#9 on kooks&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kooks/dev-java/Us-Algorithm&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kooks/dev-java/Us-Algorithm/Programmers/week2/138476/kooks&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -52,6 +52,15 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Programmers/week2/138476/kooks" />
+      <recent name="$PROJECT_DIR$/Programmers/week2/42577/kooks" />
+      <recent name="$PROJECT_DIR$/Programmers/week2/12900/kooks" />
+      <recent name="$PROJECT_DIR$/Programmers/week2/138476" />
+      <recent name="$PROJECT_DIR$/Programmers/week2/42577" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,11 +89,25 @@
       <workItem from="1756898938065" duration="4086000" />
       <workItem from="1757650812384" duration="954000" />
       <workItem from="1757652562112" duration="931000" />
-      <workItem from="1757688068154" duration="5211000" />
+      <workItem from="1757688068154" duration="5581000" />
+      <workItem from="1758101953161" duration="2558000" />
+      <workItem from="1758107156296" duration="3353000" />
+      <workItem from="1758198926557" duration="2760000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
