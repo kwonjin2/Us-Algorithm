@@ -3,6 +3,7 @@ function solution(s) {
 
   for (let i of s) {
     if (count < 0) return false;
+
     if (i === "(") {
       count++;
     } else {
